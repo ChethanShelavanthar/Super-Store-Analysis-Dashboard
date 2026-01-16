@@ -55,3 +55,5 @@ Include customer lifetime value analysis
 Build drill-through pages for state-level performance
 Automate data refresh using APIs
 
+Screenshot / Demos
+Example: [Dashboard Preview] https://github.com/ChethanShelavanthar/Super-Store-Analysis-Dashboard/blob/main/super%20store%20analysis%20dashboard.png
